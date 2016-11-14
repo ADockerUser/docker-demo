@@ -47,4 +47,4 @@ volumes:
 
 networks:
   docker-demo:
-    driver: overlay
+    #    driver: overlay
